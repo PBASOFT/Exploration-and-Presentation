@@ -1,4 +1,3 @@
-# Homework Assignment 1: Work log - Steganography
 
 
 ## 1 .4 .2 Exercise B - Assessing a website
