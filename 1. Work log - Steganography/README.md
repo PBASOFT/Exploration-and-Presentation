@@ -64,7 +64,7 @@ Little-endian is an order in which the "little end" (least significant value in 
 
   Early in the process of researching we came across a blogpost explaining about different ways of hiding and finding messages in an image as well as encoding and decoding messages.
   One paragraph in the post described how to save data in “the least significant bit” of the colors in each pixel. It caught our attention as it sounded a lot like how the data was encoded in our assignment. We therefore read that part closely and found a tool called zsteg that can be used to decode an image.
-  We installed the tool and analysed the image with it. And it revealed the hidden message!
+  We installed the tool and analysed the image with it. And it revealed the hidden message:
 
 	
 
