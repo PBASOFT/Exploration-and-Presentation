@@ -1,11 +1,5 @@
 
 
-## 1 .4 .2 Exercise B - Assessing a website
-
-The page "Evaluating blog credibility gives some criteria for evaluating the credibility of a blog or webpage. Try to answer the quality criteria for
-This webpage: 10 tech challenges solved by microservices
-This critique of NodeJs: After A Year Of Using NodeJS In Production
-
 ## 1 .4 .3 Exercise C - Brainstorm on homework assignment
 We read through the homework assignment and noted the words we weren’t sure about the meaning of, to fully understand the problem given to us.
 
