@@ -6,21 +6,21 @@ We read through the homework assignment and noted the words we weren’t sure ab
 
 We researched the following words
 
-- Steganography: 
+- **Steganography: **
 
   “the practice of concealing a message within another message or a physical object. In computing/electronic contexts, a computer file, message, image, or video is concealed within another file”.
 
   *Source: https://en.wikipedia.org/wiki/Steganography*
 		
 
-- Ascii message:
+- **Ascii message:**
 
   A character encoding standard for electronic communication, that uses just 7 bits for each character.
 
     *Source: https://en.wikipedia.org/wiki/ASCII*
 
 
-- Little-endian 
+- **Little-endian** 
 
   Endianness is a term that describes the order in which a sequence of bytes are stored in computer memory
 Little-endian is an order in which the "little end" (least significant value in the sequence) is stored first.
