@@ -6,7 +6,7 @@ We read through the homework assignment and noted the words we weren’t sure ab
 
 We researched the following words
 
-- **Steganography: **
+- **Steganography:**
 
   “the practice of concealing a message within another message or a physical object. In computing/electronic contexts, a computer file, message, image, or video is concealed within another file”.
 
