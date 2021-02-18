@@ -1,6 +1,6 @@
 
 
-## 1 .4 .3 Exercise C - Brainstorm on homework assignment
+# 1 .4 .3 Exercise C - Brainstorm on homework assignment
 We read through the homework assignment and noted the words we weren’t sure about the meaning of, to fully understand the problem given to us.
 
 
@@ -29,9 +29,9 @@ Little-endian is an order in which the "little end" (least significant value in 
 
 
 
-##  1 .5 Homework Assignment
+#  1 .5 Homework Assignment
 
-  #### Search queries and websites visited:
+  ## Search queries and websites visited:
   
 - 10.18: “how to get data from a png image” 
   - 10:21 https://compress-or-die.com/analyze
@@ -42,14 +42,14 @@ Little-endian is an order in which the "little end" (least significant value in 
   - 10:26 https://shanereilly.net/posts/basic_steganography_and_png_files/
 
 
-####  Stumbling blocks
+##  Stumbling blocks
   We didn’t run into any stumbling blocks as we more or less found the solution in our first try.
   	
 
 
 
 
-####  Diary:
+##  Diary:
 
   We only have one entry in our diary, as we had already found the hidden message in the image, when our first 30 min block ran out. 
   
@@ -74,7 +74,7 @@ Within 15 minutes.
 
 
 
-####  What is the message?
+##  What is the message?
 
 
   Early in the process of researching we came across a blogpost explaining about different ways of hiding and finding messages in an image as well as encoding and decoding messages.
