@@ -51,10 +51,25 @@ Little-endian is an order in which the "little end" (least significant value in 
 
 ####  Diary:
 
-  We only have one entry in our diary, as we had already found the hidden message in the image, when our first 30 min block ran out.
+  We only have one entry in our diary, as we had already found the hidden message in the image, when our first 30 min block ran out. 
+  
+   
+- **Problem been working on**
 
+We currently writing down timestamps for our google searches.
 
-  We are surprised at how fast and unproblematic we found the solution. We didn’t experience any frustrations or dead ends and are currently finishing up wiriting the assignment.
+- **What is currently your frustration**
+
+That we solved the problem already. And are currently discussing whether to start over to gain som of the aimed experience with work logs.
+
+- **When you were last in contact with your team-mate**
+
+We are currently talking online.
+
+- **When you expect to be done with this micro-task**
+
+Within 15 minutes.
+  
 
 
 
